@@ -1,6 +1,7 @@
 ## Hahay👋
 - 🌱 Estudante do IFPB - CZ 
 - 😄 Pronomes: ele/dele
+##
 <div style="display: flex">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kaserzin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/&gt;>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaserzin&layout=compact&langs_count=8&theme=algolia"/&gt;>
@@ -15,5 +16,4 @@
   <a href="https://www.instagram.com/pedro.kaser/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-rogério/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
 ![snake gif](https://github.com/kaserzin/kaserzin/blob/output/github-user-contribution.svg)
