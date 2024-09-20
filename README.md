@@ -2,8 +2,8 @@
 - 🌱 Estudante do IFPB - CZ 
 - 😄 Pronomes: ele/dele
 <div style="display: flex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaserzin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/&gt;>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaserzin&layout=compact&langs_count=8&theme=algolia"/&gt;>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kaserzin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/&gt;>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaserzin&layout=compact&langs_count=8&theme=algolia"/&gt;>
 </div>
 <div style="display: inline_block"><br>
   <img aling="center" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
