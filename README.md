@@ -1,6 +1,5 @@
 ## Hahay👋
 - 🌱 Estudante do IFPB - CZ 
-- 😄 Pronomes: ele/dele
 ##
 <div style="display: flex">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kaserzin&show_icons=true&theme=algolia">
