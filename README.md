@@ -2,10 +2,11 @@
 - 🌱 Estudante do IFPB - CZ 
 ##
 <div style="display: flex">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kaserzin&show_icons=true&theme=algolia">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaserzin&layout=compact&langs_count=8&theme=algolia"/&gt;>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kaserzin&show_icons=true&theme=algolia">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaserzin&layout=donut&theme=algolia"/&gt;>
 </div>
 <div style="display: inline_block"><br>
+  <img aling="center" heigt="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=40&color=currentColor" />
   <img aling="center" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img aling="center" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />       
   <img aling="center" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
