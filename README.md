@@ -2,7 +2,7 @@
 - 🌱 Estudante do IFPB - CZ 
 ##
 <div style="display: flex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaserzin&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaserzin&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaserzin&layout=donut&theme=dracula"/&gt;>
 </div>
 <div style="display: inline_block"><br>
